@@ -12,4 +12,4 @@ This repository was called `public-docs` before, and released versions of the ap
 
 ## Beanbox for Decaid
 
-The Beanbox plugin and the "Streamline + Beanbox" skin for the Decent espresso machine are published as [releases](https://github.com/pagratios/pagratios.github.io/releases) tagged `beanbox-vX.Y.Z`, each with the plugin and skin ZIPs. Their source is private; its release workflow creates them here. Don't edit or delete them by hand.
+The Beanbox plugin and skin for the Decent espresso machine are released on [pagratios/beanbox-decaid](https://github.com/pagratios/beanbox-decaid), not here: Decaid installs and updates them from that repository's latest release.
